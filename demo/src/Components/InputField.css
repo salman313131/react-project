@@ -1,0 +1,9 @@
+body{
+    align-content: center;
+    justify-content: center;
+}
+.input-field{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: fit-content;
+}
